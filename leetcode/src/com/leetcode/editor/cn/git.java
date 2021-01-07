@@ -1,4 +1,7 @@
 package com.leetcode.editor.cn;
 
 public class git {
+    public static void main(String[] args) {
+
+    }
 }
