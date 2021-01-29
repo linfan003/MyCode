@@ -1,10 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/panda2" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fe59247-96df-419e-af94-3dd011da0eb1" name="Default Changelist" comment="13-罗马数转换">
-      <change beforePath="$PROJECT_DIR$/src/com/leetcode/editor/cn/P1two-sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/leetcode/editor/cn/P1two-sum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/num1_100/e1TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/num1_100/e1TwoSum.java" afterDir="false" />
+    <list default="true" id="3fe59247-96df-419e-af94-3dd011da0eb1" name="Default Changelist" comment="git2测试">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <list id="254eb29b-6002-4f47-b49f-9902479a5bba" name="Revert &quot;git测试&quot;" comment="&quot;git测试&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +43,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
@@ -30,12 +60,6 @@
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="109" />
-    <option name="y" value="-23" />
-    <option name="width" value="1546" />
-    <option name="height" value="1047" />
-  </component>
   <component name="ProjectId" id="1l3B5UPrFbDAaHhT1kY2Rh1hqcd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,6 +68,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586594485905" />
@@ -158,6 +185,7 @@
       <workItem from="1586592517144" duration="1247000" />
       <workItem from="1586593789213" duration="695000" />
       <workItem from="1606815713704" duration="96000" />
+      <workItem from="1609984935874" duration="1854000" />
     </task>
     <task id="LOCAL-00001" summary="01-两数之和">
       <created>1584861929553</created>
@@ -180,22 +208,128 @@
       <option name="project" value="LOCAL" />
       <updated>1585048005090</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="git测试">
+      <created>1609985060032</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609985060032</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git测试">
+      <created>1609985368392</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1609985368392</updated>
+    </task>
+    <task id="LOCAL-00006" summary="git测试">
+      <created>1609985451491</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609985451491</updated>
+    </task>
+    <task id="LOCAL-00007" summary="git2测试">
+      <created>1609985727802</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609985727802</updated>
+    </task>
+    <task id="LOCAL-00008" summary="&quot;git测试&quot;">
+      <created>1609986095793</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609986095793</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="panda" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="2">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/panda2" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+        <entry key="2" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="01-两数之和" />
     <MESSAGE value="13-罗马数转换" />
-    <option name="LAST_COMMIT_MESSAGE" value="13-罗马数转换" />
+    <MESSAGE value="git测试" />
+    <MESSAGE value="git2测试" />
+    <MESSAGE value="&quot;git测试&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;git测试&quot;" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="565" y="85" key="CommitChangelistDialog2" timestamp="1609985968328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="565" y="85" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1609985968328" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1606815808722">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606815808722" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1609986097425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609986097425" />
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609985811249">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="433" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1609985811249" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
